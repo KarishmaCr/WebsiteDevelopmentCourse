@@ -1,0 +1,32 @@
+/*this file is written to define the properties of each tags in index.html*/
+body{
+  margin : 0;
+  font-family : Arial,Helvetica,sans-serif;
+  background-color : #f4f6f8;
+  color : #333;
+  line-height : 1.6;
+  }
+
+  header {
+    background-color : #1e293b;
+    color : white;
+    padding : 2rem;
+    text-allign : center;
+  }
+
+
+
+
+button{
+  padding : 0.6rem 1.2rem;
+  font-size : 1rem;
+  background-color : #2563eb;
+  color: white;
+  border : none;
+  border-radius : 4px;
+  cursor : pointer;
+}
+
+button:hover {
+  background-color : #1d4ed8;
+}
